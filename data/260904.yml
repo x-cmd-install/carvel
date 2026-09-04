@@ -1,29 +1,39 @@
 about:
-  description: Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
+  description:
+  |
+    Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
   license: NOASSERTION
   homepage: 
   head: 0dd2578
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:08:48Z
+  collectedAt: 2026-09-04T19:28:45Z
 timeline:
   created: 2020-11-16
   lastCommit: 2024-02-26
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 36
   watcher: 12
   fork: 2
   release: 0
   contributor: 13
-  pullRequest: 4
+  pullRequest: 14
   issue: 1
 language:
   Shell: 31
-totalLine: 31
+totalBytes: 31
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 0
+  mergedPR: 10
+  openPR: 1
+  closedIssue: 1
+  openIssue: 0
+  commit: 70
+---
+---
+
