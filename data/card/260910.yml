@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:36:11Z
+  collectedAt: 2026-09-10T16:27:39Z
 timeline:
   created: 2020-11-16
   lastCommit: 2024-02-26
@@ -83,7 +83,7 @@ total:
   commit: 70
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/carvel
-collectedAt: 2026-09-10T04:36:16Z
+collectedAt: 2026-09-10T16:27:42Z
 loc:
   JavaScript:
     code: 9303
